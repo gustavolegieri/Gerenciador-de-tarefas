@@ -1,5 +1,6 @@
 import os
 tarefas = []
+a
 global nome
 global desc
 global urgencia
