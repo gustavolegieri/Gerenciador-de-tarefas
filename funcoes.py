@@ -89,10 +89,6 @@ def excluir_tarefas():
         limpa_console()
 
 
-
-
-
-
 def limpa_console():
     os.system("pause")
     os.system("cls")
